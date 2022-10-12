@@ -5,9 +5,9 @@ function School() {
     <div>
       <div style={{ color: "red" }}>School</div>
       <div style={{ color: "red" }}>School</div>
-      <div style={{ color: "red" }}>School</div>
-      <div style={{ color: "red" }}>School</div>
-      <div style={{ color: "red" }}>School</div>
+      <div style={{ color: "red" }}>student</div>
+      <div style={{ color: "red" }}>student</div>
+      <div style={{ color: "red" }}>student</div>
     </div>
   );
 }
