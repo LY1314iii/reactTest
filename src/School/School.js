@@ -1,9 +1,15 @@
-import React from 'react'
+import React from "react";
 
 function School() {
   return (
-    <div style={{color:'red'}}>School</div>
-  )
+    <div>
+      <div style={{ color: "red" }}>School</div>
+      <div style={{ color: "red" }}>School</div>
+      <div style={{ color: "red" }}>School</div>
+      <div style={{ color: "red" }}>School</div>
+      <div style={{ color: "red" }}>School</div>
+    </div>
+  );
 }
 
-export default School
+export default School;
