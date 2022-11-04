@@ -16,7 +16,13 @@ function App() {
     return (    
         // 顶层组件通过Provider 提供数据    
         <C.Provider value={'this is name'}>     
-            <div><Foo/></div>    
+            <div><Foo/></div> 
+            <div></div>   
+            <div></div>   
+            <div></div>   
+            <div></div>   
+            <div></div>   
+            <div></div>   
         </C.Provider>  
     )
 }
